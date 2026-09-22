@@ -1,4 +1,4 @@
-<img src="aesthetic.jpg" width="70%" alt="Harsh Singh">
+<img width="736" height="502" alt="aesthetic" src="https://github.com/user-attachments/assets/61731fc9-1adc-46ac-ae61-23cf3f12bbca" />
 
 ## About Me
 
