@@ -1,4 +1,4 @@
-<img width="736" height="502" alt="aesthetic" src="https://github.com/user-attachments/assets/61731fc9-1adc-46ac-ae61-23cf3f12bbca" />
+<img width="1500" height="500" alt="16325617385150964" src="https://github.com/user-attachments/assets/c5534398-00fe-4400-adac-1cf205e94dac" />
 
 ## About Me
 
